@@ -8,7 +8,7 @@ This repo is the official implementation of AUG proposed in "Rethinking Multimod
 
 **Accepted by: NIPS 2025, Oral**
 
-**[[arXiv](https://arxiv.org/pdf/2502.20120?)]** 
+**[[arXiv](https://arxiv.org/pdf/2502.20120)]** 
 
 ## ✨ Motivation
 
